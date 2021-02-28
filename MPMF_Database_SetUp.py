@@ -574,7 +574,7 @@ class MPMFDBSetUp:
 if __name__ == "__main__":
     # REFACTOR: change TEXT types to CHAR, VARCHAR as reading is much quicker (look this up?)
     user = "root"
-    password = "raja2417"
+    password = ""
     database = "mpmfdb"
     fs = FileSystem("", "", "", "")
 
