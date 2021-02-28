@@ -1,0 +1,17 @@
+sbp|loading pump|1|Starting Backpressure (Average)|N|Y
+ep|loading pump|2|End Pressure (Average)|N|Y
+ai|loading pump|3|Air Injection|N|Y
+vss|loading pump|4|Valve Spike Start|N|Y
+vse|loading pump|5|Valve Spike End|N|Y
+pd-lp|loading pump|6|Pressure Differential|N|Y
+sp|nano pump|1|Starting Pressure (Median)|N|Y
+vd|nano pump|2|Valve Drop|N|Y
+maxp|nano pump|3|Maximum Pressure|N|Y
+minp|nano pump|4|Minimum Pressure|N|Y
+pd|nano pump|5|Pressure Differential|N|Y
+il|nano pump|6|Inline Leak|N|Y
+co|column oven|-1|Column Oven|N|Y
+maxp-metab|main pump|1|Maximum Pressure|Y|N
+rt-maxp|main pump|2|Retention Time at Maximum Pressure|Y|N
+sp-metab|main pump|3|Starting Pressure (Median)|Y|N
+ep-metab|main pump|4|End Pressure (Median)|Y|N

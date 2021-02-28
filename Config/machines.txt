@@ -1,0 +1,7 @@
+fusion|||CLAYTON|N|Y|thermo
+qeclassic|||CLAYTON|Y|Y|thermo
+qehf1|||CLAYTON|N|Y|thermo  
+qeplus1|||CLAYTON|N|Y|thermo
+qeplus2|||CLAYTON|N|Y|thermo
+qecmips|||PARKVILLE|Y|Y|thermo
+qehfmips|||PARKVILLE|N|Y|thermo
