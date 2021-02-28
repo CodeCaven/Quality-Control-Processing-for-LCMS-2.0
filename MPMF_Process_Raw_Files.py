@@ -1015,7 +1015,7 @@ if __name__ == "__main__":
     # REFACTOR: config from files (using venue?, plus metab set for one machine)
 
     # set database details, put in config file
-    db_info = {"user": "root", "password": "raja2417", "database": "mpmfdb"}
+    db_info = {"user": "root", "password": "", "database": "mpmfdb"}
     loc = sys.argv[3].upper()
     experiment_type = sys.argv[4].upper()
 
